@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tester</string>
+    <string name="twelve_hr">12hr</string>
+    <string name="twenty_four_hr">24hr</string>
+</resources>
